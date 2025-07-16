@@ -23,7 +23,7 @@ print("After inserting an imem:", goals_chart)
 # Using indexes and slicing
 
 print("First task:", goals_chart[0])
-print("Last two tasks:", goals_chart[3:])
+print("Last two tasks:", goals_chart[-2:])
 
 # mark a task as done
 

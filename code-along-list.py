@@ -19,7 +19,7 @@ print("After inserting an imem:", todo_list)
 # Using indexes and slicing
 
 print("First task:", todo_list[0])
-print("Last two tasks:", todo_list[3:])
+print("Last two tasks:", todo_list[-2:])
 
 # mark a task as done
 
