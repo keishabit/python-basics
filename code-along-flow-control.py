@@ -22,10 +22,12 @@ else:
 
 counter = 1
 
-while counter < 2000:
+while counter < 20:
  
     if counter % 3 == 0 and counter % 5 == 0:
         print(f'{counter}: Fizzbuzz')
+        counter += 1
+        continue
     elif counter % 3 == 0:
         print(f'{counter}: Fizz')
     elif counter % 5 == 0:
