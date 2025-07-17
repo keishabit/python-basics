@@ -19,7 +19,7 @@ elif guess > our_number:
 else:
     print('Too low!')
 '''
-
+'''
 counter = 1
 
 while counter < 20:
@@ -35,3 +35,20 @@ while counter < 20:
     counter+= 1 # This is a shortcut for counter = counter + 1
 else:
     print('Done with while loop')
+    '''
+
+# for loop example
+
+loop_range = range(1,11)
+
+for i in range(1, 11+1):
+ print(f'Iteration{i}')
+
+print(max(loop_range))
+
+# for loop with a list
+
+fruits = ['apple' , 'banna', 'cherry' , 3, 4.5]
+
+for i in fruits:
+    print(f'Fruits{i}') 
