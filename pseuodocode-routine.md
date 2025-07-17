@@ -6,6 +6,7 @@
 1. Gather all ingredients and place them within easy reach
 1. Check that all required cooking equipment is clean and ready
 1. Preheat oven, stovetop, or any appliances as needed
+1. IF cooking requires oven or appliances, THEN preheat them now
 
 ## Ingredient Preparation (10-15 minutes)
 
@@ -13,7 +14,7 @@
 1. Measure out all dry ingredients into separate bowls
 1. Measure all liquid ingredients and set aside
 1. Wash and prep all vegetables (chop, dice, slice as needed)
-1. Prepare proteins by trimming, seasoning, or marinating
+1. IF using protein, THEN prepare by trimming, seasoning, or marinating
 1. Organize prepped ingredients in order of use
 
 ## Active Cooking Process (20-45 minutes)
@@ -23,13 +24,13 @@
 1. Taste and adjust seasonings throughout the process
 1. Keep cooking areas clean as you go - wash utensils between uses
 1. Monitor heat levels and adjust as needed for optimal results
-1. Prepare any side dishes or accompaniments simultaneously
+1. IF making multiple dishes, THEN prepare side dishes simultaneously
 
 ## Plating and Presentation (5 minutes)
 
-1. Warm plates in a low oven or with warm water
+1. IF serving hot meal, THEN warm plates in low oven or with warm water
 1. Arrange food thoughtfully on plates for visual appeal
-1. Add fresh herbs, garnishes, or finishing touches
+1. IF available, THEN add fresh herbs, garnishes, or finishing touches
 1. Check that all components are at proper serving temperature
 
 ## Post-Cooking Cleanup (10 minutes)
